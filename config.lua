@@ -26,13 +26,20 @@ Config.CircleTime = 10 -- How long each circle is
 
 -- ONLY USED WHEN Config.Radial IS TRUE --
 Config.CookingObjects = {
-	"p_campfirecombined01x",
-	"p_campfirecombined02x",
-	"p_campfirecombined03x",
-	"p_campfirecombined04x",
-	"s_cookfire01x",
-	"p_stove06x",
-	"p_stove07x"
+		"p_campfirecombined01x",
+		"p_campfirecombined02x",
+		"p_campfirecombined03x",
+		"p_campfirecombined04x",
+		"s_campfire01_fresh",
+		"p_campfirefresh01x",
+		"p_campfire02x_script",
+		"s_mil_cookfire01x",
+		"s_cookfire01x",
+		"p_stove06x",
+		"p_stove07x",
+		"p_kettle01x",
+		"p_cs_kettle01x",
+		"p_kettle03x"
 }
 
 --------------------------------------
