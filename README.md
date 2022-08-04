@@ -39,6 +39,15 @@ PlayerData.metadata['cookingrep'] = PlayerData.metadata['cookingrep'] or 0
 	distance = 3.0
 },
 ```
+# Features:
+- Minigame when cooking
+	- If failed, lose items and possibly lose rep
+- Admin command to set players cooking rep : `/setcookingrep`
+- Placeable Campfires
+	- Burnout over time (Set in Config)
+	- Stoke fires so they burn longer (Set in Config)
+	- Put out fires using target
+	- Enable / Disable Using Radial Menu (Set in Config)
 
 # Dependencies:
 - qbr-core : https://github.com/qbcore-redm-framework/qbr-core
