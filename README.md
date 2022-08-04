@@ -52,8 +52,10 @@ PlayerData.metadata['cookingrep'] = PlayerData.metadata['cookingrep'] or 0
 	- Enable / Disable Using Radial Menu (Set in Config)
 
 # Dependencies:
-- qbr-core : https://github.com/qbcore-redm-framework/qbr-core
 - qbr-target : https://github.com/Andyauk/qbr-target
+- qbr-lock : https://github.com/SagginChairLLC/qbr-lock
+- qbr-radialmenu : https://github.com/Andyauk/qbr-radialmenu
+- qbr-core : https://github.com/qbcore-redm-framework/qbr-core
 
 ### Join my Development Discord:
 - https://discord.gg/cmWRvTHJBN
