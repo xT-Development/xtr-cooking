@@ -1,3 +1,5 @@
+<a href='https://ko-fi.com/W7W2DTUIV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 # xt-cooking
 ### Simple Cooking w/ Rep || xThrasherrr#6666
 
@@ -52,3 +54,6 @@ PlayerData.metadata['cookingrep'] = PlayerData.metadata['cookingrep'] or 0
 # Dependencies:
 - qbr-core : https://github.com/qbcore-redm-framework/qbr-core
 - qbr-target : https://github.com/Andyauk/qbr-target
+
+### Join my Development Discord:
+- https://discord.gg/cmWRvTHJBN
