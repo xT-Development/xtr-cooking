@@ -43,6 +43,7 @@ PlayerData.metadata['cookingrep'] = PlayerData.metadata['cookingrep'] or 0
 },
 ```
 # Features:
+- Skin Fish
 - Minigame when cooking
 	- If failed, lose items and possibly lose rep
 - Admin command to set players cooking rep : `/setcookingrep`
@@ -55,6 +56,7 @@ PlayerData.metadata['cookingrep'] = PlayerData.metadata['cookingrep'] or 0
 # Dependencies:
 - qbr-target : https://github.com/Andyauk/qbr-target
 - qbr-lock : https://github.com/SagginChairLLC/qbr-lock
+- dag_fishing : https://github.com/dagibbet/dag_fishing (Used for the fish items)
 - qbr-radialmenu : https://github.com/Andyauk/qbr-radialmenu
 - qbr-core : https://github.com/qbcore-redm-framework/qbr-core
 
