@@ -16,7 +16,6 @@ PlayerData.metadata['cookingrep'] = PlayerData.metadata['cookingrep'] or 0
 ```lua
 ["cookingobjects"] = {
 	models = {
-		"p_campfire05x",
 		"p_campfirecombined01x",
 		"p_campfirecombined02x",
 		"p_campfirecombined03x",
