@@ -3,6 +3,8 @@
 # xt-cooking
 ### Simple Cooking w/ Rep || xThrasherrr#6666
 
+### Preview: https://streamable.com/crzgum
+
 # Installation:
 - Add items to `shared/items.lua`
 - Add item images to `qbr-inventory/html/images`
