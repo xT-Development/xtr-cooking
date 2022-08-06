@@ -1,7 +1,7 @@
 QBCore = {}
 local sharedItems = exports['qbr-core']:GetItems()
 local sleep = 1000
-local campfire = 0
+local Campfire = 0
 local cook = 0
 local zonename = {}
 local TimeUntilBurnout = Config.CampfireOut
